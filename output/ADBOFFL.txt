@@ -1,0 +1,13 @@
+HD02587888IDR00000000000000000000000000000000000000020170828
+D12345678901IDR000000450080000AMIR                                       989765498   Transfer Agustus 2017 
+D02345678902IDR000000078008730AYU                                        854354543   Transfer Agustus 2017 
+D12345678903IDR000000600000000ADI                                        123456789   Transfer Agustus 2017 
+D00345678904IDR000000450000045DWI                                        123456790   Transfer Agustus 2017 
+D12345678905IDR000000087566055agung                                      123456791   Transfer Agustus 2017 
+D12345678906IDR000000400000000YUDI y                                     123456792   Transfer Agustus 2017 
+D12345678907IDR000000400000000ALEX a                                     123456793   Transfer Agustus 2017 
+D12345678908IDR000000400000000JOKO j                                     123456794   Transfer Agustus 2017 
+D00045678909IDR000000400000000BAMBANG b                                  123456795   Transfer Agustus 2017 
+D12345678906IDR000000400000000MOMO                                       123456792   Transfer Agustus 2017 
+D12345678907IDR000000400000000RERE                                       123456793   Transfer Agustus 2017 
+D12345678908IDR000000400000000KOKO                                       123456794   Transfer Agustus 2017 
