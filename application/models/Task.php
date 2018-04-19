@@ -1,7 +1,13 @@
 <?php
 class Task extends CI_Model{
     function gets(){
-        $sql = "select * from dtasks ";
+        $sql = "select id,name,description, ";
+        $sql.= "case status ";
+        $sql.= "when '0' then 'Belum selesai' ";
+        $sql.= "when '1' then 'Selesai' ";
+        $sql.= "end status, ";
+        $sql.= "createdate  ";
+        $sql.= "from dtasks ";
         $sql.= "order by createdate desc ";
         $ci = & get_instance();
         $que = $ci->db->query($sql);
@@ -13,7 +19,13 @@ class Task extends CI_Model{
         );
     }
     function get($id){
-        $sql = "select * from dtasks ";
+        $sql = "select id,name,description, ";
+        $sql.= "case status ";
+        $sql.= "when '0' then 'Belum selesai' ";
+        $sql.= "when '1' then 'Selesai' ";
+        $sql.= "end status, ";
+        $sql.= "createdate  ";
+        $sql.= "from dtasks ";
         $sql.= "where id=" . $id . " ";
         $sql.= "order by createdate desc ";
         $ci = & get_instance();
